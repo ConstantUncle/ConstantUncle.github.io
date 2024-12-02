@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+
 ## Selected Journal Publications
 
 #### International Legal and Ethical Issues of a Future Carrington Event: Existing Frameworks, Shortcomings, and Recommendations
