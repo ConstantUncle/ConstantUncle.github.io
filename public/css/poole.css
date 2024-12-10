@@ -246,6 +246,9 @@ th {
   border: 0px solid #e5e5e5;
   text-align: left;
 }
+td {
+  padding-bottom: 10px;
+}
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
 }
