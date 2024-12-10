@@ -10,8 +10,8 @@ relative_permalinks: false
 title:            Adam Nawal
 tagline:          About
 description:      '<img src="/public/Images/4550857_email_gmail_mail_sending_yahoo_icon.svg" style="float:left;width:25px;height:25px;"> <a href="mailto:adam.nawal@isunet.edu">Email</a></p>
-<p style="text-indent: 0px;"><img src="/public/Images/orcid.logo.icon.svg" style="float:left;width:25px;height:25px;"> <a href="https://orcid.org/0009-0005-7179-8878" target="_blank">0009-0005-7179-8878</a></p>
-<p style="text-indent: 0px;"><img src="/public/Images/5296501_linkedin_network_linkedin logo_icon.svg" style="float:left;width:25px;height:25px;"> <a href="https://www.linkedin.com/in/adam-nawal" target="_blank">LinkedIn</a>'
+<p style="margin-left: 0px;"><img src="/public/Images/orcid.logo.icon.svg" style="float:left;width:25px;height:25px;"> <a href="https://orcid.org/0009-0005-7179-8878" target="_blank">0009-0005-7179-8878</a></p>
+<p style="margin-left: 0px;"><img src="/public/Images/5296501_linkedin_network_linkedin logo_icon.svg" style="float:left;width:25px;height:25px;"> <a href="https://www.linkedin.com/in/adam-nawal" target="_blank">LinkedIn</a>'
 url:              www.adamnaw.al
 baseurl:          /
 
