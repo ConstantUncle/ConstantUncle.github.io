@@ -244,6 +244,7 @@ table {
 td,
 th {
   border: 0px solid #e5e5e5;
+  text-align: left;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
