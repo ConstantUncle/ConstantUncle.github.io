@@ -10,9 +10,9 @@ relative_permalinks: false
 title:            Adam Nawal
 tagline:          About
 description:      '<table>
-                    <tr> <td><img src="/public/Images/4550857_email_gmail_mail_sending_yahoo_icon.svg" style="width:25px;height:25px;"></td> <td><a href="mailto:adam.nawal@isunet.edu">Email</a></td></tr>
-                    <tr> <td><img src="/public/Images/orcid.logo.icon.svg" style="float:left;width:25px;height:25px;"></td> <td><a href="https://orcid.org/0009-0005-7179-8878" target="_blank">0009-0005-7179-8878</a></td></tr>
-                    <tr> <td><img src="/public/Images/5296501_linkedin_network_linkedin logo_icon.svg" style="float:left;width:25px;height:25px;"></td> <td><a href="https://www.linkedin.com/in/adam-nawal" target="_blank">LinkedIn</a></td></tr>
+                    <tr> <th><a href="mailto:adam.nawal@isunet.edu"><img src="/public/Images/4550857_email_gmail_mail_sending_yahoo_icon.svg" style="float:left;width:25px;height:25px;"></a></th> <td><a href="mailto:adam.nawal@isunet.edu">Email</a></td></tr>
+                    <tr> <th><a href="https://orcid.org/0009-0005-7179-8878" target="_blank"><img src="/public/Images/orcid.logo.icon.svg" style="float:left;width:25px;height:25px;"></a></th> <td><a href="https://orcid.org/0009-0005-7179-8878" target="_blank">0009-0005-7179-8878</a></td></tr>
+                    <tr> <th><a href="https://www.linkedin.com/in/adam-nawal" target="_blank"><img src="/public/Images/5296501_linkedin_network_linkedin logo_icon.svg" style="float:left;width:25px;height:25px;"></a></th> <td><a href="https://www.linkedin.com/in/adam-nawal" target="_blank">LinkedIn</a></td></tr>
                   </table>'
 url:              www.adamnaw.al
 baseurl:          /
