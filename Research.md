@@ -5,6 +5,10 @@ title: Research, Skills, and Projects
 
 ## Research Interests
 
+My current research interests are focused on exoplanets, astrobiology, planetary science, and the search for biosignatures. Previously, I have also studied systems engineering as well as astronomy across multiple wavelengths, including working with data from the MAXI X-Ray telescope while interning at JAXA.
+
+## Research Keywords
+
 - Exoplanet detection and classification
 - Astrobiology and Biosignatures
 - Multiwavelength Astronomy
