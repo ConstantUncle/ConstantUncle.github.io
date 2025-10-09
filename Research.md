@@ -21,6 +21,12 @@ My current research interests are focused on exoplanets, astrobiology, planetary
 - Altium
 - STK
 
+## Current Projects
+
+#### Visiting Scholar, BMSIS
+
+Working in a team to contruct a model of abitoic sulfur cycling on hycean worlds and icy moons to distinguish sulfur-based biosignatures, September 2025-present
+
 ## Past Projects, Workshops, and Conferences
 
 #### ESA Academy DYT! 2019 - Team Bubbles
